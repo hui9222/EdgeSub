@@ -20,7 +20,7 @@ const AvalibleEndpoints: EndpointPrototype[] = [
     },
     {
         key: "Clash",
-        value: "/sub target=clash",
+        value: "/sub/target=clash",
         ExtendConfig: ["RemoteConfig", "RemoteConfigUserspec", "isUDP", "ForcedWS0RTT"]
     },
     {
